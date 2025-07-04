@@ -1,0 +1,2 @@
+# bashrc
+Simple bash config
